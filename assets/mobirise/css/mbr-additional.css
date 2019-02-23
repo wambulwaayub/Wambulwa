@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
+#msg-box5-1 .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box5-1 .lead P {
+  color: #ffffff;
+}
+#msg-box4-4 .lead P {
+  text-align: left;
+}
+#msg-box4-4 .btn {
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+}
+#msg-box4-5 .lead P {
+  text-align: left;
+}
+#msg-box4-5 .btn {
+  font-size: 16px;
+}
+#msg-box4-6 .btn {
+  font-size: 16px;
+}
+#msg-box4-9 .btn {
+  font-size: 16px;
+}
+#msg-box4-b .btn {
+  font-size: 16px;
+}
+#content4-7 P {
+  text-align: center;
+}
+#menu-h .navbar-toggler {
+  color: #f1c050;
+}
